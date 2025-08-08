@@ -10,7 +10,7 @@ Para responder a esta pregunta, analizamos datos de ventas, rendimiento, reseña
 
 ## Objetivo del Proyecto
 
-Determinar la tienda menos eficiente a partir de datos de ventas, reseñas y costos.
+- Determinar la tienda menos eficiente a partir de datos de ventas, reseñas y costos.
 ---
 ## Archivos Incluidos
 
@@ -43,7 +43,7 @@ tienda4 = pd.read_csv(url4)
 - "Cantidad de cuotas" →  La cantidad de pagos que se hicieron para comprar el producto.
 - "lat y long " →  Punto exacto en donde se realizo la compra.
 
-- ## 🛠️ Instalación
+## 🛠️ Instalación
 - 1.Clona este repositorio o descarga el notebook AluraStoreLatam.ipynb.
 - 2.Ejecuta cada celda en orden para realizar el análisis completo.
 - 3.Asegúrate de tener conexión a internet, ya que los datos se cargan desde URLs
@@ -54,7 +54,6 @@ tienda4 = pd.read_csv(url4)
 - **Matplotlib y Numpy** para visualizaciones
 - **Jupyter Notebook**
 
-- 
 ## 📁 Análisis Realizados
 
 1. ### 💰 Ingreso Total por Tienda  
@@ -73,7 +72,7 @@ tienda4 = pd.read_csv(url4)
    Analizamos el gasto logístico promedio por tienda, calculando el valor medio de la columna de **costo de envío**.
 
 
-- ## 📈 Resultados finales
+## 📈 Resultados finales
 
 ### 💰 Ingresos totales
 | Tienda  | Facturación ($) |
@@ -129,6 +128,6 @@ tienda4 = pd.read_csv(url4)
 ## 📌 Conclusión
 Con base en las métricas de ingresos, satisfacción del cliente y costos de operación, la **Tienda 4** presenta menor facturación y costo de envío, por lo que podría ser la mejor opción para vender.
 
-✉️ Contacto
+## ✉️ Contacto
 Diana Delgado
 GitHub: @Diana13Delgado
