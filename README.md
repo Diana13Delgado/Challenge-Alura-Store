@@ -23,8 +23,11 @@ url3 = "https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-scienc
 url4 = "https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_4.csv"
 
 tienda = pd.read_csv(url)
+
 tienda2 = pd.read_csv(url2)
+
 tienda3 = pd.read_csv(url3)
+
 tienda4 = pd.read_csv(url4)
 
 **Cada archivo contiene:**
@@ -126,3 +129,6 @@ tienda4 = pd.read_csv(url4)
 ## 📌 Conclusión
 Con base en las métricas de ingresos, satisfacción del cliente y costos de operación, la **Tienda 4** presenta menor facturación y costo de envío, por lo que podría ser la mejor opción para vender.
 
+✉️ Contacto
+Diana Delgado
+GitHub: @Diana13Delgado
