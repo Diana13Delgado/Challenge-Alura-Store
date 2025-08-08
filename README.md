@@ -15,8 +15,11 @@ Determinar la tienda menos eficiente a partir de datos de ventas, reseñas y cos
 ## Archivos Incluidos
 
 url = "https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_1%20.csv"
+
 url2 = "https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_2.csv"
+
 url3 = "https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_3.csv"
+
 url4 = "https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_4.csv"
 
 tienda = pd.read_csv(url)
@@ -122,10 +125,4 @@ tienda4 = pd.read_csv(url4)
 
 ## 📌 Conclusión
 Con base en las métricas de ingresos, satisfacción del cliente y costos de operación, la **Tienda 4** presenta menor facturación y costo de envío, por lo que podría ser la mejor opción para vender.
-
----
-
-## 📦 Librerías usadas
-- "pandas"
-- "matplotlib"
 
