@@ -126,7 +126,7 @@ tienda4 = pd.read_csv(url4)
 ---
 
 ## 📌 Conclusión
-- Tras el análisis, la Tienda 4 se perfila como la candidata más adecuada para ser vendida, debido a:
+Tras el análisis, la Tienda 4 se perfila como la candidata más adecuada para ser vendida, debido a:
 - Menor facturación: Tiene los ingresos más bajos de las cuatro tiendas ($1,038,375,700.00).
 - Rendimiento promedio: Aunque mantiene una calificación aceptable (4.00), está por debajo de las Tiendas 2 y 3.
 - Menor diversidad competitiva: Presenta ventas concentradas en categorías principales y bajos volúmenes en otras áreas.
